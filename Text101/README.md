@@ -9,4 +9,4 @@
 * Folder organization
 * TextMesh Pro, importing fonts and creating font assets
 * Canvas UI Scaling
-* 
+* Publishing game as webgl project
