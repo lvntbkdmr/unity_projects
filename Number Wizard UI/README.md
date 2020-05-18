@@ -7,3 +7,6 @@
 * SceneManager.LoadScene() 
 * Try to Strect anchor points of texts inside buttons
 * Use UI Image element as backgrounds
+* Higher, Lower buttons trigger (onclick) Gameplay game object's linked NumberWizard.cs script's public method
+* Random.Range(min, max) is used to generate random number
+* Application.Quit() is linked with Quit button to exit the game.

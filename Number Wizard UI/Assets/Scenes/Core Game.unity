@@ -322,6 +322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   max: 1000
   min: 1
+  guessText: {fileID: 532969491}
 --- !u!1 &208825918
 GameObject:
   m_ObjectHideFlags: 0
@@ -404,8 +405,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1083029015}
-        m_MethodName: LoadNextScene
+      - m_Target: {fileID: 133335659}
+        m_MethodName: OnPressHigher
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1581,8 +1582,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1083029015}
-        m_MethodName: LoadNextScene
+      - m_Target: {fileID: 133335659}
+        m_MethodName: OnPressLower
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
