@@ -20,4 +20,8 @@
 * Updating paddle position from Input.mousePosition
 * Updating ball position from paddle position (LockBallToPaddle, LaunchOnMouseClick)
 * Edit->Project Settings->Physics2D->Gravity = 0
+* FindObjectsOfType
+* Singleton pattern (https://docs.unity3d.com/Manual/ExecutionOrder.html)
+* AudioClip and AudioSource (PlayClipAtPoint, PlayOneShot)
+* [Range(0.1f, 10f)] [SerializeField]
 
