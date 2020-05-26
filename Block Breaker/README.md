@@ -24,4 +24,8 @@
 * Singleton pattern (https://docs.unity3d.com/Manual/ExecutionOrder.html)
 * AudioClip and AudioSource (PlayClipAtPoint, PlayOneShot)
 * [Range(0.1f, 10f)] [SerializeField]
+* Instantiate GameObject out of Prefabs (Particle Effect VFX)
+* Tags (Breakable, Unbreakable)
+* Several sprites for different damage levels
+* Autoplay
 
